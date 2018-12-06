@@ -1,0 +1,130 @@
+body{
+	margin:0px;	
+	padding:0px;
+}
+
+div#body {
+	margin: 0 auto;
+	width: 1024px;
+}
+div#left{
+	display:block;
+	float:left;	
+	background-color:#80BDCB;
+	width: 25%;
+}
+div#right{
+	display:block;
+	float:left;
+	background-color:#DDEEF2;
+	width: 75%;
+}
+div#footer{
+	display:block;
+	clear:both;
+	margin: 0 auto;
+	background-color:#278296;
+}
+/*
+#80BDCB
+#DDEEF2
+#F4FAFB
+#EEF8F9
+*/
+
+/* 头部样式 */
+#header-div { background: #278296;  border-bottom: 1px solid #FFF;}
+#logo-div { height: 50px;  float: left;}
+#submenu-div { height: 50px; }
+#submenu-div  a{ text-decoration:underline; color:#FFFFA6}
+#submenu-div  a:hover{ text-decoration:none; color:#FF0000}
+#submenu-div .txt1{padding: 20px 20px 0 20px; clear:right;text-align: right; color: #FFFFFF;width:;float: left;}
+
+
+/* CSS Document */
+
+#top_menu{padding:5px; line-height:22px; text-align:center; border:#BBDDE5 1px solid; background:#FFEFFF; margin-bottom:10px; }
+#top_menu a{ text-decoration:underline}
+#top_menu a:hover{ text-decoration:none}
+
+#tabbar-div {
+  background: #278296;
+  padding-left: 10px;
+  height: 21px; 
+  padding-top: 0px;
+}
+#tabbar-div p {
+  margin: 1px 0 0 0;
+}
+.tab-front {
+  background: #80BDCB;
+  line-height: 20px;
+  font-weight: bold;
+  padding: 4px 15px 4px 18px;
+  border-right: 2px solid #335b64;
+  cursor: hand;
+  cursor: pointer;
+}
+.tab-back {
+  color: #F4FAFB;
+  line-height: 20px;
+  padding: 4px 15px 4px 18px;
+  cursor: hand;
+  cursor: pointer;
+}
+.tab-hover {
+  color: #F4FAFB;
+  line-height: 20px;
+  padding: 4px 15px 4px 18px;
+  cursor: hand;
+  cursor: pointer;
+  background: #2F9DB5;
+}
+#top-div
+{
+  padding: 3px 0 2px;
+  background: #BBDDE5;
+  margin: 5px;
+  text-align: center;
+}
+#main-div {
+  border: 1px solid #345C65;
+  padding: 5px;
+  margin: 5px;
+  background: #FFF;
+}
+#menu-list {
+  padding: 0;
+  margin: 0;
+}
+#menu-list ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  color: #335B64;
+}
+#menu-list li {
+  padding-left: 16px;
+  line-height: 16px;
+  cursor: hand;
+  cursor: pointer;
+}
+#main-div a:visited, #menu-list a:link, #menu-list a:hover {
+  color: #335B64
+  text-decoration: none;line-height:20px;
+}
+#menu-list a:active {
+  color: #EB8A3D;
+}
+.explode {
+  background: url(/webAdmin/sys_img/menu_minus.gif) no-repeat 0px 3px;
+  font-weight: bold;l
+}
+.collapse {
+  background: url(/webAdmin/sys_img/menu_plus.gif) no-repeat 0px 3px;
+  font-weight: bold;
+}
+.menu-item {
+  background: url(/webAdmin/sys_img/menu_arrow.gif) no-repeat 0px 5px;
+  font-weight: normal;
+}

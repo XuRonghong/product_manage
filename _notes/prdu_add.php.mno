@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_show_class" value="name:cId;datatype:int,name:cName;datatype:string,name:cTime;datatype:timestamp" />
+</info>

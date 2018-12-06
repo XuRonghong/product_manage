@@ -1,0 +1,28 @@
+/* CSS Document */
+
+
+
+A:visited {	COLOR: #335b64; TEXT-DECORATION: none}
+A:link {COLOR: #335b64; TEXT-DECORATION: none}
+A:hover {COLOR: #eb8a3d; TEXT-DECORATION: underline}
+A:active {COLOR: #eb8a3d; TEXT-DECORATION: underline}
+a.a_style1 {color:#007BA8; font-weight:bold; text-decoration:underline}
+a.a_style1:hover {color:#FF6600; font-weight:bold; text-decoration:none }
+a.a_style2 {color:#999999; text-decoration:underline }
+a.a_style2:hover{color:#FF6600; text-decoration:underline }
+a.a_style3 {color:#FF0000; text-decoration:underline;}
+a.a_style3:hover{color:#017CA6; text-decoration:underline}
+a.a_style4 { font-weight:bold; }
+a.a_style5 {color:#000000; text-decoration:underline; }
+a.a_style5:hover{color:#FF6600; text-decoration:underline; }
+a.abc{font-weight:normal}
+a.abc:hover{font-weight:normal; text-decoration:underline}
+
+
+
+h1 {background: #F4FAFB; border: 1px solid #BBDDE5; color: #9CACAF; font-size: 14px;  padding: 7px 10px; margin: 2px 2px 10px 2px;}
+h1 .menu-span a{ text-decoration:underline;}
+h1 .menu-span a:hover{ text-decoration:none;}
+h1 .action-span {float: right; padding-left: 10px; padding-top:0px; border-left: 2px solid #999; position:relative; top:-3px}
+h1 .action-span a {color: #666;  font-size: 12px;  font-weight: normal;  text-decoration: none;  display:block;  padding:2px 5px 2px 23px;  *padding:4px 5px 2px 23px;  border:1px solid #278296;  border-right:2px solid #278296;  border-bottom:2px solid #278296;  background:#DDEEF2 url(/webAdmin/sys_img/icon_add.gif) no-repeat 3px center;  *background:#DDEEF2 url(/webAdmin/sys_img/icon_add.gif) no-repeat 3px 3px;}
+h1 .action-span a:hover {border:1px solid #5FA6B6;border-right:2px solid #5FA6B6;border-bottom:2px solid #5FA6B6; background:#FFF url(/webAdmin/sys_img/icon_add.gif) no-repeat 3px center;  *background:#FFF url(/webAdmin/sys_img/icon_add.gif) no-repeat 3px 3px;  color:#666;text-decoration:none;}

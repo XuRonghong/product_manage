@@ -1,0 +1,17 @@
+<!--
+#ColorSelectertBox {
+	BORDER-RIGHT: #9dadce 1px solid; BORDER-TOP: #eaf0ff 1px solid; Z-INDEX: 1; LEFT: 1px; BORDER-LEFT: #eaf0ff 1px solid; BORDER-BOTTOM: #9dadce 1px solid; POSITION: absolute; TOP: 1px; BACKGROUND-COLOR: #ffffff;
+}
+A.special:link {
+	BORDER-RIGHT: #278296 2px solid; PADDING-RIGHT: 5px; BORDER-TOP: #91c4d0 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: 400; BACKGROUND: #ddeef2; PADDING-BOTTOM: 0px; MARGIN: 0px 5px; BORDER-LEFT: #91c4d0 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #278296 2px solid; TEXT-DECORATION: none
+}
+A.special:visited {
+	BORDER-RIGHT: #278296 2px solid; PADDING-RIGHT: 5px; BORDER-TOP: #91c4d0 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: 400; BACKGROUND: #ddeef2; PADDING-BOTTOM: 0px; MARGIN: 0px 5px; BORDER-LEFT: #91c4d0 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #278296 2px solid; TEXT-DECORATION: none
+}
+A.special:hover {
+	COLOR: #666
+}
+A.special:active {
+	BORDER-RIGHT: #5fa6b6 1px solid; BORDER-TOP: #5fa6b6 1px solid; BACKGROUND: #f2f9fa; MARGIN: 1px 5px 0px 6px; BORDER-LEFT: #5fa6b6 1px solid; COLOR: #666; BORDER-BOTTOM: #5fa6b6 1px solid; outline: none
+}
+-->
